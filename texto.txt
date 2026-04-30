@@ -1,0 +1,1 @@
+Estou escrevendo um texto no arquivo txt via console. Sem edito
