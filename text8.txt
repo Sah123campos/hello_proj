@@ -1,0 +1,14 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 0681-7C1A
+
+ Pasta de C:\Users\44906334830\hello_proj
+
+14/05/2026  20:35    <DIR>          .
+14/05/2026  20:26    <DIR>          ..
+14/05/2026  19:12               123 README.md.txt
+14/05/2026  19:13               413 text3.txt
+14/05/2026  20:27               460 text6.txt
+14/05/2026  20:27               507 text7.txt
+14/05/2026  20:35                 0 text8.txt
+               5 arquivo(s)          1.503 bytes
+               2 pasta(s)   768.892.502.016 bytes dispon¡veis
